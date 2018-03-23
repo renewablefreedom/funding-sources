@@ -11,3 +11,4 @@ Content of this repository is licensed under [Creative Commons Zero](https://cre
  * https://github.com/nayafia/lemonade-stand
  * https://github.com/ralphtheninja/open-funding
  * https://www.fossjobs.net/
+ * https://sebkur.github.io/funding-2.0/
